@@ -1,5 +1,5 @@
 # 🚀 JavaScript Basics - Day 1
-
+ -
 ## 📌 Topics Covered:
 ### **1️⃣ Basic Logic in JavaScript**
 - Understanding **variables**, **operators**, and their operations.
